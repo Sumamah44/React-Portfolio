@@ -26,3 +26,15 @@ Follow the steps below to set up and run the project on your local machine.
 
    ```bash
    git clone https://github.com/Sumamah44/React-Portfolio.git
+
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](https://raw.githubusercontent.com/Sumamah44/React-Portfolio/608fd2b8013d1f43c64e3c26bc8a115d7f792b64/src/assets/images/Picture1.png)
+
+![Contact Page](https://raw.githubusercontent.com/Sumamah44/React-Portfolio/608fd2b8013d1f43c64e3c26bc8a115d7f792b64/src/assets/images/Picture2.png)
+
+## 🚀 Live Demo
+
+🔗 [View the Live Demo](https://sumamah44.github.io/React-Portfolio/)
